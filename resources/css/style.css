@@ -8,6 +8,7 @@ html {
 .main-content {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
+  
 }
 
 .center {
@@ -42,24 +43,33 @@ header {
   border-bottom: solid 1px #c6c1c1;
   background-color: white;
   z-index: 1;
+<<<<<<< HEAD
+=======
+
+ 
+>>>>>>> b4aeb566c92fa2ff9a7a36a6a4253f47b03f109f
 }
 
 header .content {
   display: flex;
   align-items: center;
   padding: 1.875rem;
+  
 }
 
 header .logo {
   flex: 1;
+  
 }
 
 header nav ul {
   display: flex;
+  
 }
 
 nav li {
   padding-left: 3.5rem;
+  
 }
 
 nav a {
@@ -67,6 +77,7 @@ nav a {
   line-height: 1.6;
   font-size: 1rem;
   color: #4a4a4a;
+ 
 }
 
 header .icon {
@@ -118,11 +129,15 @@ header .mobile {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
+<<<<<<< HEAD
   background-image: url('/resources/images/banner-landingpage.jpg');
   background-size: cover;        /* Ensures the image covers the entire element */
   background-position: center;   /* Centers the image */
   background-repeat: no-repeat;  /* Prevents the image from repeating */
   margin-bottom: 70px;
+=======
+  
+>>>>>>> b4aeb566c92fa2ff9a7a36a6a4253f47b03f109f
 }
 
 #sign-up-cta {
@@ -130,10 +145,15 @@ header .mobile {
   border: solid 1px #979797;
   border-radius: 4px;
   background-color: #9dc20b;
+<<<<<<< HEAD
 margin-top: 170px;
 margin-bottom: 170px;
 margin-left: 100px;
+=======
+  
+>>>>>>> b4aeb566c92fa2ff9a7a36a6a4253f47b03f109f
 }
+
 
 #sign-up-cta .content {
   width: 25.625rem;
